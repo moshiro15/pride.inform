@@ -1,0 +1,3426 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x1ee8d300" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x1ee8d300" />
+  <item nodeId="node-0x1ee8d300">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+You are Elizabeth Bennet, and you are at Mr. Bingley&apos;s Netherfield estate. Your sister Jane is sick, so you came to visit. You hope to try help her get back to health, but you mostly want to explore the place.
+
+pride
+Exploring the estate by Melissa Oshiro
+Release 1 / Serial number 141022 / Inform 7 build 6L02 (I6/v6.33 lib 6/12N) SD
+
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2387">NO</temporary>
+    <children>
+      <child nodeId="node-0x2bbb7450" />
+      <child nodeId="node-0x2bbb5f50" />
+      <child nodeId="node-0x1ee2a920" />
+      <child nodeId="node-0x32f96d60" />
+    </children>
+  </item>
+  <item nodeId="node-0x32f96d60">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Are you sure you want to quit? </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb952b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb952b0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Please answer yes or no.&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x322d9bf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x322d9bf0">
+    <command xml:space="preserve">no</command>
+    <result xml:space="preserve">
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x322e28d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x322e28d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+ballroom
+A large spacious room with marble floors and large windows on one wall. A grand chandelier hangs from the ceiling and marble columns near the walls. Paintings hang on all walls.
+
+You can see piano and Miss Bingley here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e110d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e110d0">
+    <command xml:space="preserve">look at piano</command>
+    <result xml:space="preserve">A shiny, black grand piano. You know your sister Mary would fall in love with it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x3220fd00" />
+    </children>
+  </item>
+  <item nodeId="node-0x3220fd00">
+    <command xml:space="preserve">talk to Miss Bingley</command>
+    <result xml:space="preserve">Miss bingley asks you to play the piano.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x31bc2e50" />
+    </children>
+  </item>
+  <item nodeId="node-0x31bc2e50">
+    <command xml:space="preserve">play the piano</command>
+    <result xml:space="preserve">That doesn&apos;t sound right.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x322a2c90" />
+    </children>
+  </item>
+  <item nodeId="node-0x322a2c90">
+    <command xml:space="preserve">play piano</command>
+    <result xml:space="preserve">Play specific notes. Maybe a scale? A nice song?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32376160" />
+    </children>
+  </item>
+  <item nodeId="node-0x32376160">
+    <command xml:space="preserve">play scale</command>
+    <result xml:space="preserve">That doesn&apos;t sound right.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x26b023b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x26b023b0">
+    <command xml:space="preserve">play song</command>
+    <result xml:space="preserve">Play specific notes. Maybe a scale? A nice song?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x322c25d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x322c25d0">
+    <command xml:space="preserve">cdabefg</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32fb5de0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32fb5de0">
+    <command xml:space="preserve">anaconda</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e314c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e314c0">
+    <command xml:space="preserve">play anaconda</command>
+    <result xml:space="preserve">My anaconda don&apos;t.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32f8fa00" />
+    </children>
+  </item>
+  <item nodeId="node-0x32f8fa00">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbe5f50" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbe5f50">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+office
+A large room with a desk and sofas. Paintings hang on one wall and large windows are on another.
+
+You can see kitchen-door, desk and Bingley here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x323aca40" />
+    </children>
+  </item>
+  <item nodeId="node-0x323aca40">
+    <command xml:space="preserve">Bingley</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x2c110450" />
+    </children>
+  </item>
+  <item nodeId="node-0x2c110450">
+    <command xml:space="preserve">talk to Bingley</command>
+    <result xml:space="preserve">Bingley tells you that Jane is still a bit unwell, but no worries- she will be in good health soon. He has enjoyed her company thusfar.
+
+It seems that Darcy appeared out of nowhere. He&apos;s just watching you. He&apos;ll leave soon.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32243590" />
+    </children>
+  </item>
+  <item nodeId="node-0x32243590">
+    <command xml:space="preserve">x me</command>
+    <result xml:space="preserve">You are Elizabeth Bennet, aka Lizzy. Your dress is slightly muddy from the walk to the estate and your hair is not in the best shape. Oh well.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x26b282c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x26b282c0">
+    <command xml:space="preserve">talk to Darcy</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x3225da60" />
+    </children>
+  </item>
+  <item nodeId="node-0x3225da60">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x31b507f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x31b507f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32f73710" />
+    </children>
+  </item>
+  <item nodeId="node-0x32f73710">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+office
+A large room with a desk and sofas. Paintings hang on one wall and large windows are on another.
+
+You can see kitchen-door, desk and Bingley here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb359e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb359e0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">(first opening kitchen-door)
+
+kitchen
+You can see kitchen-door and pitcher here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x3222ca70" />
+    </children>
+  </item>
+  <item nodeId="node-0x3222ca70">
+    <command xml:space="preserve">look at pitcher</command>
+    <result xml:space="preserve">A white clay water pitcher that has designs of birds and flowers on it. You should pour some water for Jane, maybe.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x3229f140" />
+    </children>
+  </item>
+  <item nodeId="node-0x3229f140">
+    <command xml:space="preserve">pour water</command>
+    <result xml:space="preserve">You take the water pitcher and pour a glass of water for Jane.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x26b17eb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x26b17eb0">
+    <command xml:space="preserve">take glass</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32fb7360" />
+    </children>
+  </item>
+  <item nodeId="node-0x32fb7360">
+    <command xml:space="preserve">take glass of water</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb8970" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb8970">
+    <command xml:space="preserve">drink water</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x20db7300" />
+    </children>
+  </item>
+  <item nodeId="node-0x20db7300">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+dining room
+A lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e934a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e934a0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+It seems that Darcy appeared out of nowhere again. You ignore him.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x322d3120" />
+    </children>
+  </item>
+  <item nodeId="node-0x322d3120">
+    <command xml:space="preserve">go u</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e44a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e44a50">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+north bedroom
+A decent-sized room. A window is on the far wall and shelves line the wall to the left. A wardrobe is next to the window. You see Jane lying on the bed in the middle of the room.
+
+You can see window (closed), wardrobe (closed) and Jane here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32f882b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32f882b0">
+    <command xml:space="preserve">give water to jane</command>
+    <result xml:space="preserve">
+
+    *** Jane thanks you for the water and she looks refreshed. You did your best to help your sister and it seems like she is getting better! THE END ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32fb70a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32fb70a0">
+    <command xml:space="preserve">replay</command>
+    <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x323bef20" />
+    </children>
+  </item>
+  <item nodeId="node-0x323bef20">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">
+
+
+You are Elizabeth Bennet, and you are at Mr. Bingley&apos;s Netherfield estate. Your sister Jane is sick, so you came to visit. You hope to try help her get back to health, but you mostly want to explore the place.
+
+pride
+Exploring the estate by Melissa Oshiro
+Release 1 / Serial number 141022 / Inform 7 build 6L02 (I6/v6.33 lib 6/12N) SD
+
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32ff2e20" />
+    </children>
+  </item>
+  <item nodeId="node-0x32ff2e20">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+A lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32f8bf90" />
+    </children>
+  </item>
+  <item nodeId="node-0x32f8bf90">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">That&apos;s not behavior befitting a lady.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32398510" />
+    </children>
+  </item>
+  <item nodeId="node-0x32398510">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x3228f950" />
+    </children>
+  </item>
+  <item nodeId="node-0x3228f950">
+    <command xml:space="preserve">look at shevles</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32ede620" />
+    </children>
+  </item>
+  <item nodeId="node-0x32ede620">
+    <command xml:space="preserve">look at dining table</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32f72a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x32f72a50">
+    <command xml:space="preserve">pet cat</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x2c131d70" />
+    </children>
+  </item>
+  <item nodeId="node-0x2c131d70">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e1b2d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e1b2d0">
+    <command xml:space="preserve">pet cat</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb77b80" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb77b80">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e3da80" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e3da80">
+    <command xml:space="preserve">pet cat</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x3228b400" />
+    </children>
+  </item>
+  <item nodeId="node-0x3228b400">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x3225dde0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3225dde0">
+    <command xml:space="preserve">pet cat</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32f66730" />
+    </children>
+  </item>
+  <item nodeId="node-0x32f66730">
+    <command xml:space="preserve">cat</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x323a2e80" />
+    </children>
+  </item>
+  <item nodeId="node-0x323a2e80">
+    <command xml:space="preserve">pet</command>
+    <result xml:space="preserve">What do you want to pet?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e5b270" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e5b270">
+    <command xml:space="preserve">cat</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e10cd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e10cd0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32fc0c90" />
+    </children>
+  </item>
+  <item nodeId="node-0x32fc0c90">
+    <command xml:space="preserve">pet</command>
+    <result xml:space="preserve">What do you want to pet?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x22723a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x22723a40">
+    <command xml:space="preserve">cat</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32f20420" />
+    </children>
+  </item>
+  <item nodeId="node-0x32f20420">
+    <command xml:space="preserve">pet cat</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x322b2ad0" />
+    </children>
+  </item>
+  <item nodeId="node-0x322b2ad0">
+    <command xml:space="preserve">pet lost cat</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x22a17480" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a17480">
+    <command xml:space="preserve">x cat</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x26b1e770" />
+    </children>
+  </item>
+  <item nodeId="node-0x26b1e770">
+    <command xml:space="preserve">pet Cat</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x322ebfa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x322ebfa0">
+    <command xml:space="preserve">xCat</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2353">YES</temporary>
+    <children>
+      <child nodeId="node-0x32fa7ca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32fa7ca0">
+    <command xml:space="preserve">x Cat</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2352">YES</temporary>
+  </item>
+  <item nodeId="node-0x1ee2a920">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see stairs and Darcy here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba4490" />
+      <child nodeId="node-0x1eedec30" />
+    </children>
+  </item>
+  <item nodeId="node-0x1eedec30">
+    <command xml:space="preserve">talk to darcy</command>
+    <result xml:space="preserve">Good day, Miss Elizabeth.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb8f140" />
+      <child nodeId="node-0x3228d3a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3228d3a0">
+    <command xml:space="preserve">ask darcy about jane</command>
+    <result xml:space="preserve">She&apos;s in the north bedroom.
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x33265a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x33265a40">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+north bedroom
+A decent-sized room. A window is on the far wall and shelves line the wall to the left. A wardrobe is next to the window. You see Jane lying on the bed in the middle of the room.
+
+You can see window (closed), wardrobe (closed) and Jane here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x322e15a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x322e15a0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see stairs and Darcy here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x22adddc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22adddc0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x32203d10" />
+    </children>
+  </item>
+  <item nodeId="node-0x32203d10">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e59c50" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e59c50">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see stairs and Darcy here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e2c5e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e2c5e0">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x22a725b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a725b0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+A lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x322b51c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x322b51c0">
+    <command xml:space="preserve">x rable</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x32207e40" />
+    </children>
+  </item>
+  <item nodeId="node-0x32207e40">
+    <command xml:space="preserve">x dining-table</command>
+    <result xml:space="preserve">A long mahogany table with chairs to match. A blue silk runner is positioned in the middle of the table. Candle holders are placed along the runner.
+
+It seems that Darcy appeared out of nowhere. He&apos;s just watching you. He&apos;ll leave soon.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x322e05d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x322e05d0">
+    <command xml:space="preserve">talk to darcy</command>
+    <result xml:space="preserve">Good day, Miss Elizabeth.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x323bcba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x323bcba0">
+    <command xml:space="preserve">talk to darcy</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x322f9500" />
+    </children>
+  </item>
+  <item nodeId="node-0x322f9500">
+    <command xml:space="preserve">x table</command>
+    <result xml:space="preserve">A long mahogany table with chairs to match. A blue silk runner is positioned in the middle of the table. Candle holders are placed along the runner.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x2273e290" />
+    </children>
+  </item>
+  <item nodeId="node-0x2273e290">
+    <command xml:space="preserve">look under table</command>
+    <result xml:space="preserve">You see a cat!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e3b800" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e3b800">
+    <command xml:space="preserve">pet cat</command>
+    <result xml:space="preserve">The tabby nuzzles into your hand and purs. She is very soft.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x26b049e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x26b049e0">
+    <command xml:space="preserve">x cat</command>
+    <result xml:space="preserve">A fat tabby cat with blue eyes. It seems curious about you, but it doesn&apos;t move.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x32f4d000" />
+    </children>
+  </item>
+  <item nodeId="node-0x32f4d000">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2382">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbe1d70" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbe1d70">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+office
+A large room with a desk and sofas. Paintings hang on one wall and large windows are on another.
+
+You can see kitchen-door, desk and Bingley here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2381">YES</temporary>
+  </item>
+  <item nodeId="node-0x2bb8f140">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1789">YES</temporary>
+  </item>
+  <item nodeId="node-0x2bba4490">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+north bedroom
+A decent-sized room. A window is on the far wall and shelves line the wall to the left. A wardrobe is next to the window. You see Jane lying on the bed in the middle of the room.
+
+You can see window (closed), wardrobe (closed) and Jane here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba4500" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bba4500">
+    <command xml:space="preserve">talk to jane</command>
+    <result xml:space="preserve">Jane smiles at you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba4570" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bba4570">
+    <command xml:space="preserve">ask jane about health</command>
+    <result xml:space="preserve">Jane has nothing to say about health. Try asking her about other things such as the window or Bingley.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba45e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bba45e0">
+    <command xml:space="preserve">ask jane about health</command>
+    <result xml:space="preserve">Jane has nothing to say about health. Try asking her about other things such as the window or Bingley.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee0a9b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee0a9b0">
+    <command xml:space="preserve">ask jane about her health</command>
+    <result xml:space="preserve">I&apos;m still feeling unwell. Hopefully I get better soon because I feel like a burden.
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee0aa20" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee0aa20">
+    <command xml:space="preserve">ask jane about health</command>
+    <result xml:space="preserve">Jane has nothing to say about health. Try asking her about other things such as the window or Bingley.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee0aa90" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee0aa90">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see stairs and Darcy here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee0ab00" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee0ab00">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee0ab70" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee0ab70">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+ballroom
+A large spacious room with marble floors and large windows on one wall. A grand chandelier hangs from the ceiling and marble columns near the walls. Paintings hang on all walls.
+
+You can see piano and Miss Bingley here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba4650" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bba4650">
+    <command xml:space="preserve">play song</command>
+    <result xml:space="preserve">Play specific notes. Maybe a scale? A nice song?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba46c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bba46c0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba4730" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bba4730">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba47a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bba47a0">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see stairs and Darcy here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba4810" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bba4810">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+north bedroom
+A decent-sized room. A window is on the far wall and shelves line the wall to the left. A wardrobe is next to the window. You see Jane lying on the bed in the middle of the room.
+
+You can see window (closed), wardrobe (closed) and Jane here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba4880" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bba4880">
+    <command xml:space="preserve">ask jane abou how she feels</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba48f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bba48f0">
+    <command xml:space="preserve">ask jane about how she feels</command>
+    <result xml:space="preserve">Jane has nothing to say about how she feels. Try asking her about other things such as the window or Bingley.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1784">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bba4960" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bba4960">
+    <command xml:space="preserve">ask jane about her health</command>
+    <result xml:space="preserve">I&apos;m still feeling unwell. Hopefully I get better soon because I feel like a burden.
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1783">YES</temporary>
+  </item>
+  <item nodeId="node-0x2bbb5f50">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+A lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2356">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb5fc0" />
+      <child nodeId="node-0x2bbeeb10" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbeeb10">
+    <command xml:space="preserve">look under table</command>
+    <result xml:space="preserve">You see a cat!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2356">YES</temporary>
+    <children>
+      <child nodeId="node-0x227dca40" />
+      <child nodeId="node-0x322064e0" />
+      <child nodeId="node-0x32208790" />
+    </children>
+  </item>
+  <item nodeId="node-0x32208790">
+    <command xml:space="preserve">pet cat</command>
+    <result xml:space="preserve">The tabby nuzzles into your hand and purs. She is very soft.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2355">YES</temporary>
+    <children>
+      <child nodeId="node-0x32fd7ea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32fd7ea0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2067">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb51980" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb51980">
+    <command xml:space="preserve">pet cat</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2067">YES</temporary>
+    <children>
+      <child nodeId="node-0x322e0cd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x322e0cd0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2067">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb0b5a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb0b5a0">
+    <command xml:space="preserve">pet cat</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2067">YES</temporary>
+    <children>
+      <child nodeId="node-0x322f9190" />
+    </children>
+  </item>
+  <item nodeId="node-0x322f9190">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2066">YES</temporary>
+  </item>
+  <item nodeId="node-0x322064e0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2038">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e92f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e92f60">
+    <command xml:space="preserve">look under table</command>
+    <result xml:space="preserve">You find nothing of interest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2037">YES</temporary>
+  </item>
+  <item nodeId="node-0x227dca40">
+    <command xml:space="preserve">x cat</command>
+    <result xml:space="preserve">A fat tabby cat with blue eyes. It seems curious about you, but it doesn&apos;t move.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x20d7db50" />
+    </children>
+  </item>
+  <item nodeId="node-0x20d7db50">
+    <command xml:space="preserve">look under table</command>
+    <result xml:space="preserve">You see a cat!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x3222acb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3222acb0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+kitchen
+You can see kitchen-door and pitcher here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb54370" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb54370">
+    <command xml:space="preserve">pour pitcher</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e4ae60" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e4ae60">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x26b52cb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x26b52cb0">
+    <command xml:space="preserve">pour water</command>
+    <result xml:space="preserve">You take the water pitcher and pour a glass of water for Jane.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x3223c390" />
+    </children>
+  </item>
+  <item nodeId="node-0x3223c390">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  water
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e5a430" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e5a430">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">That&apos;s not behavior befitting a lady.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x32ea87b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32ea87b0">
+    <command xml:space="preserve">take pitcher</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x32250770" />
+    </children>
+  </item>
+  <item nodeId="node-0x32250770">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  water
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x22a17c10" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a17c10">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e5fcb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e5fcb0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">kitchen
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x26b60a80" />
+    </children>
+  </item>
+  <item nodeId="node-0x26b60a80">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">kitchen
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x20d5b6b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x20d5b6b0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">kitchen
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e5ade0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e5ade0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">kitchen
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x26b93f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x26b93f60">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">kitchen
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x20d47090" />
+    </children>
+  </item>
+  <item nodeId="node-0x20d47090">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">kitchen
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb5b2d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb5b2d0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">kitchen
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x22710eb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22710eb0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">dining room
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x32ee73c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32ee73c0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+kitchen
+You can see kitchen-door and pitcher here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x31b6bf70" />
+    </children>
+  </item>
+  <item nodeId="node-0x31b6bf70">
+    <command xml:space="preserve">take pitcher</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb181d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb181d0">
+    <command xml:space="preserve">pour water</command>
+    <result xml:space="preserve">You take the water pitcher and pour a glass of water for Jane.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x32ee38c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32ee38c0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  water
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x32ee32e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32ee32e0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+dining room
+A lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see cat, shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x31b8ab00" />
+    </children>
+  </item>
+  <item nodeId="node-0x31b8ab00">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x31b77ba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x31b77ba0">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see stairs and Darcy here.
+
+It seems that Darcy appeared out of nowhere. He&apos;s just watching you. He&apos;ll leave soon.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb293b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb293b0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+north bedroom
+A decent-sized room. A window is on the far wall and shelves line the wall to the left. A wardrobe is next to the window. You see Jane lying on the bed in the middle of the room.
+
+You can see window (closed), wardrobe (closed) and Jane here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb172c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb172c0">
+    <command xml:space="preserve">give water</command>
+    <result xml:space="preserve">(to Jane)
+Jane looks refreshed.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1981">YES</temporary>
+    <children>
+      <child nodeId="node-0x32ef2f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x32ef2f60">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1980">YES</temporary>
+  </item>
+  <item nodeId="node-0x2bbb5fc0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6030" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6030">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+a lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb60a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb60a0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6110" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6110">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+a lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6180" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6180">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb61f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb61f0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+a lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6260" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6260">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb62d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb62d0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+a lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6340" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6340">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb63b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb63b0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6420" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6420">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+a lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6490" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6490">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6500" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6500">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6570" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6570">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb65e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb65e0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6650" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6650">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb66c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb66c0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6730" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6730">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb67a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb67a0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6810" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6810">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6880" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6880">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb68f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb68f0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6960" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6960">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb69d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb69d0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6a40">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6ab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6ab0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6b20" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6b20">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6b90">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6c00">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6c70" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6c70">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6ce0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6ce0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+kitchen
+You can see kitchen-door and pitcher here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6d50" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6d50">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening kitchen-door)
+
+office
+A large room with a desk and sofas. Paintings hang on one wall and large windows are on another.
+
+You can see kitchen-door, desk and Bingley here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6dc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6dc0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6e30" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6e30">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6ea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6ea0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6f10" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6f10">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6f80" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6f80">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb6ff0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb6ff0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb7060" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb7060">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb70d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb70d0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb7140" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb7140">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb71b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb71b0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb7220" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb7220">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb7290" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb7290">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb7300" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb7300">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb7370" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb7370">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1850">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb73e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb73e0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1849">YES</temporary>
+  </item>
+  <item nodeId="node-0x2bbb7450">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+office
+A large room with a desk and sofas. Paintings hang on one wall and large windows are on another and the kitchen door to the north.
+
+You can see kitchen-door, desk, drawers and Bingley here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2387">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb74c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb74c0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">(first opening kitchen-door)
+
+kitchen
+You can see kitchen-door and pitcher here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2387">YES</temporary>
+    <children>
+      <child nodeId="node-0x1eef2fd0" />
+      <child nodeId="node-0x2bb8e6b0" />
+      <child nodeId="node-0x2bbb7530" />
+      <child nodeId="node-0x2bb5c6e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb5c6e0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+dining room
+A lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2030">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e5d690" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e5d690">
+    <command xml:space="preserve">look under table</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2030">YES</temporary>
+    <children>
+      <child nodeId="node-0x32f676b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32f676b0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2030">YES</temporary>
+    <children>
+      <child nodeId="node-0x32ed9430" />
+    </children>
+  </item>
+  <item nodeId="node-0x32ed9430">
+    <command xml:space="preserve">look under table</command>
+    <result xml:space="preserve">You see a cat!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2029">YES</temporary>
+  </item>
+  <item nodeId="node-0x2bbb7530">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1900">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb75a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb75a0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1900">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb7610" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb7610">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+dining room
+a lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1900">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb7680" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb7680">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1900">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb76f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb76f0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+a lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1900">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbb7760" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbb7760">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1900">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee54c80" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee54c80">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+a lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1900">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee54cd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee54cd0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1900">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee54d40" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee54d40">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+a lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+It seems that Darcy appeared out of nowhere. He&apos;s just watching you. He&apos;ll leave soon.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1900">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee54db0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee54db0">
+    <command xml:space="preserve">talk to darcy</command>
+    <result xml:space="preserve">Good day, Miss Elizabeth.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1900">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee54e20" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee54e20">
+    <command xml:space="preserve">ask darcy</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1899">YES</temporary>
+  </item>
+  <item nodeId="node-0x2bb8e6b0">
+    <command xml:space="preserve">pour water</command>
+    <result xml:space="preserve">You take the water pitcher and pour a glass of water for Jane.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2387">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb8e700" />
+      <child nodeId="node-0x32e28780" />
+      <child nodeId="node-0x322f1f30" />
+    </children>
+  </item>
+  <item nodeId="node-0x322f1f30">
+    <command xml:space="preserve">pour pitcher</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2387">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e52da0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e52da0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  water
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2386">YES</temporary>
+  </item>
+  <item nodeId="node-0x32e28780">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+office
+A large room with a desk and sofas. Paintings hang on one wall and large windows are on another.
+
+You can see kitchen-door, desk and Bingley here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2023">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e51c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e51c00">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2023">YES</temporary>
+    <children>
+      <child nodeId="node-0x32254630" />
+    </children>
+  </item>
+  <item nodeId="node-0x32254630">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see stairs and Darcy here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2023">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb30a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb30a40">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+north bedroom
+A decent-sized room. A window is on the far wall and shelves line the wall to the left. A wardrobe is next to the window. You see Jane lying on the bed in the middle of the room.
+
+You can see window (closed), wardrobe (closed) and Jane here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2023">YES</temporary>
+    <children>
+      <child nodeId="node-0x32245e00" />
+    </children>
+  </item>
+  <item nodeId="node-0x32245e00">
+    <command xml:space="preserve">give water</command>
+    <result xml:space="preserve">(to Jane)
+
+
+    *** Jane thanks you for the water and she looks refreshed. You did your best to help your sister and it seems like she is getting better! THE END ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2023">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e5a9f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e5a9f0">
+    <command xml:space="preserve">give water to jane</command>
+    <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2023">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e5acb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e5acb0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">north bedroom
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2023">YES</temporary>
+    <children>
+      <child nodeId="node-0x20d6dfa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x20d6dfa0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">hallway
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2023">YES</temporary>
+    <children>
+      <child nodeId="node-0x2275f260" />
+    </children>
+  </item>
+  <item nodeId="node-0x2275f260">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Main room
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2023">YES</temporary>
+    <children>
+      <child nodeId="node-0x32e5ddd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x32e5ddd0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+dining room
+A lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2023">YES</temporary>
+    <children>
+      <child nodeId="node-0x32223e70" />
+    </children>
+  </item>
+  <item nodeId="node-0x32223e70">
+    <command xml:space="preserve">give water to jane</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2022">YES</temporary>
+  </item>
+  <item nodeId="node-0x2bb8e700">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  water
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1861">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb8e770" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb8e770">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+dining room
+a lavish room with a long table that can sit at least 20 people in the middle. Wood shelves line the walls.
+
+You can see shelves and a dining-table here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1861">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb8e7e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb8e7e0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1861">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb8e850" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb8e850">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see stairs and Darcy here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1861">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb8e8c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb8e8c0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+bathroom
+A bathtub is seated in the right corner and a toilet to the left. A sink with a mirror cabinet is against the wall to the left of the toilet.
+
+You can see wash basin, toilet, cabinet (closed) and mirror here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1861">YES</temporary>
+    <children>
+      <child nodeId="node-0x1eef2e80" />
+    </children>
+  </item>
+  <item nodeId="node-0x1eef2e80">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see stairs and Darcy here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1861">YES</temporary>
+    <children>
+      <child nodeId="node-0x1eef2ef0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1eef2ef0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+north bedroom
+A decent-sized room. A window is on the far wall and shelves line the wall to the left. A wardrobe is next to the window. You see Jane lying on the bed in the middle of the room.
+
+You can see window (closed), wardrobe (closed) and Jane here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1861">YES</temporary>
+    <children>
+      <child nodeId="node-0x1eef2f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x1eef2f60">
+    <command xml:space="preserve">give water</command>
+    <result xml:space="preserve">(to Jane)
+Jane looks refreshed and thanks you.
+
+
+
+    *** You did your best to help your sister and it seems like she is getting better! THE END ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1860">YES</temporary>
+  </item>
+  <item nodeId="node-0x1eef2fd0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x1eef3040" />
+    </children>
+  </item>
+  <item nodeId="node-0x1eef3040">
+    <command xml:space="preserve">take pitcher</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee258b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee258b0">
+    <command xml:space="preserve">x pitcher</command>
+    <result xml:space="preserve">A white clay water pitcher that has designs of birds and flowers on it. You should pour some water for Jane, maybe.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee25900" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee25900">
+    <command xml:space="preserve">pour water</command>
+    <result xml:space="preserve">You take the water pitcher and pour a glass of water for Jane.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee25970" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee25970">
+    <command xml:space="preserve">pour pitcher</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee259e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee259e0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee25a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee25a50">
+    <command xml:space="preserve">pour water</command>
+    <result xml:space="preserve">You take the water pitcher and pour a glass of water for Jane.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ee25ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ee25ac0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  water
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb96030" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb96030">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+office
+A large room with a desk and sofas. Paintings hang on one wall and large windows are on another.
+
+You can see kitchen-door, desk and Bingley here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb96080" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb96080">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb960d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb960d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb96140" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb96140">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+ballroom
+A large spacious room with marble floors and large windows on one wall. A grand chandelier hangs from the ceiling and marble columns near the walls. Paintings hang on all walls.
+
+You can see piano and Miss Bingley here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb961b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb961b0">
+    <command xml:space="preserve">play anaconda</command>
+    <result xml:space="preserve">My anaconda don&apos;t.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb96220" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb96220">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb96290" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb96290">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see stairs and Darcy here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb96300" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb96300">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+north bedroom
+A decent-sized room. A window is on the far wall and shelves line the wall to the left. A wardrobe is next to the window. You see Jane lying on the bed in the middle of the room.
+
+You can see window (closed), wardrobe (closed) and Jane here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb96370" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb96370">
+    <command xml:space="preserve">open window</command>
+    <result xml:space="preserve">You open the windows to let some fresh air in and a cool breeze flows through your hair. You have a nice view of the Netherfield estate from here. You admire the well-trimmed trees of the back garden and the lush forest in the distance.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb963e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb963e0">
+    <command xml:space="preserve">x jane</command>
+    <result xml:space="preserve">Your dear sick sister, lying in bed with a cold. Ask her about bingley to lift her spirits, perhaps.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb96450" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb96450">
+    <command xml:space="preserve">talk to jane</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb964c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb964c0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bb96530" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bb96530">
+    <command xml:space="preserve">ask jane</command>
+    <result xml:space="preserve">(for water)
+(Jane first taking water)
+Jane has better things to do.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbbd660" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbbd660">
+    <command xml:space="preserve">ask jane</command>
+    <result xml:space="preserve">(for water)
+(Jane first taking water)
+Jane has better things to do.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbbd6d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbbd6d0">
+    <command xml:space="preserve">ask jane about bingley</command>
+    <result xml:space="preserve">Oh, he&apos;s such a great man. He and his sister have been nothing but kind to me.
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbbd740" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbbd740">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+hallway
+A narrow hall with a floral carpet across the length. A bathroom is to the east and a bedroom to the north and west.
+
+You can see Darcy and stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbbd7b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbbd7b0">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbbd820" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbbd820">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbbd890" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbbd890">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Main room
+A large room that leads to an office to the west, a ballroom to the east, the dining room to the north. You see a staircase next to the dining room doorway.
+
+You can see stairs here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbbd900" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbbd900">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+ballroom
+A large spacious room with marble floors and large windows on one wall. A grand chandelier hangs from the ceiling and marble columns near the walls. Paintings hang on all walls.
+
+You can see piano and Miss Bingley here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbbd970" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbbd970">
+    <command xml:space="preserve">ask miss bingley</command>
+    <result xml:space="preserve">(for water)
+(Miss Bingley first taking water)
+Miss Bingley has better things to do.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbbd9e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbbd9e0">
+    <command xml:space="preserve">talk to miss bingley</command>
+    <result xml:space="preserve">Miss bingley asks you to play the piano.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbc0810" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbc0810">
+    <command xml:space="preserve">ask miss bingley about piano</command>
+    <result xml:space="preserve">Why don&apos;t you play something for me?
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1710">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbc0880" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbc0880">
+    <command xml:space="preserve">ask miss bingley about darcy</command>
+    <result xml:space="preserve">Such a dashing man, isn&apos;t he? He never humors me though.
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1709">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbc08f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbc08f0">
+    <command xml:space="preserve">ask miss bingley about jane</command>
+    <result xml:space="preserve">She&apos;s upstairs.
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1676">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbc0960" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbc0960">
+    <command xml:space="preserve">play piano</command>
+    <result xml:space="preserve">Play specific notes. Maybe a scale? A nice song?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1676">YES</temporary>
+    <children>
+      <child nodeId="node-0x2bbc09d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2bbc09d0">
+    <command xml:space="preserve">play anaconda</command>
+    <result xml:space="preserve">My anaconda don&apos;t.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1676">YES</temporary>
+  </item>
+</Skein>
